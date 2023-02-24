@@ -29,4 +29,4 @@ sudo python setup.py install
 
 [RPi.GPIO](https://pypi.org/project/RPi.GPIO/)
 
-DOC REFERENCE: https://github.com/eutim/OPI.GPIO/blob/main/README.md
+[DOC REFERENCE](https://github.com/eutim/OPI.GPIO/blob/main/README.md)
