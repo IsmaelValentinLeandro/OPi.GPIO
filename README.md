@@ -17,16 +17,12 @@ sudo python setup.py install
 
 ###### To-Do
 
-- [x] Testing Inputs
+- [x] Testes de entradas
+- [x] Testes de serial
 
 
 # References
-[OrangePi.GPIO](https://github.com/Jeremie-C/OrangePi.GPIO)
-
-[OPi.GPIO](https://github.com/rm-hull/OPi.GPIO)
+[OPi.GPIO]([https://github.com/rm-hull/OPi.GPIO](https://github.com/rm-hull/OPi.GPIO))
 
 [wiringOP](https://github.com/orangepi-xunlong/wiringOP)
 
-[RPi.GPIO](https://pypi.org/project/RPi.GPIO/)
-
-[DOC REFERENCE](https://github.com/eutim/OPI.GPIO/blob/main/README.md)
